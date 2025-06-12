@@ -8,7 +8,4 @@ A full-stack hospital database project using MongoDB, Node.js, Express, and HTML
 - Backend REST API (Express)
 - MongoDB database with schema-free design
 
-## Setup
-```bash
-npm install
-node server/server.js
+
